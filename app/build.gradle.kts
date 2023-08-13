@@ -24,7 +24,6 @@ plugins {
 android {
     compileSdk = 33
 
-
     defaultConfig {
         applicationId = "com.example.tiptime"
         minSdk = 24
